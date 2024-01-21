@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**HumanelyKohen/HumanelyKohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a I'm a Game Developer, Minecraft Client Dev, Gamer, Application Dev.
 
-Here are some ideas to get you started:
+Things I Want To Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] Make a README For My Profile,
+- [x] Created an Electron Application
+- [x] Working on a project right now
+- [ ] Create a [Tauri](https://tauri.app "Tauri's Website") Application
+
+My Skills:
+
+Programming Languages
+
+Java, C#, JavaScript, CSS, HTML, C++, Python
+
+Frameworks
+
+.NET, .NET CORE, Vue.js, Node.js, Electron
+
+Game Engines
+
+Unity, Godot, Unreal Engine
+
+Music Tools
+
+FL Studio, Ableton
